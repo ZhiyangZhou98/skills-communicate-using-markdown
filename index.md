@@ -19,3 +19,10 @@ print("Hello World")
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Step 4: Make a task list
+- [x] step 1
+- [ ] step 2
+- [ ] step 3
+
+
